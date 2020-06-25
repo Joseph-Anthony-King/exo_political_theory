@@ -10,18 +10,18 @@ This mod contains a new technology and a new building:
 
 The **Exo Affairs Institute** is limited to one per planet and it's stats are as follows:
 
-**Cost**
+## Cost
 - Requires planet population of 10
 - 5000 minerals
 
-**Upkeep**
+## Upkeep
 - 8 energy units per month
 
-**Benefits**
+## Benefits
 - 3 influence points per month
 - Adds an envoy
 
-**Jobs**
+## Jobs
 - 2 administrator jobs
 
 If you like this mod please upvote and favorite it and please check out my other mods:
