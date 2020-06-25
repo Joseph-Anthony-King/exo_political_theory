@@ -1,6 +1,6 @@
 building_influence_generator = {
 
-	base_buildtime = 100
+	base_buildtime = @b2_time
 	can_build = yes
 	can_demolish = yes
 	can_be_ruined = yes
