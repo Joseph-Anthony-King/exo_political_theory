@@ -12,6 +12,6 @@ The Exo Affairs Institute is limited to one per planet, costs 5,000 minerals to 
 
 If you like this mod please upvote and favorite it and please check out my other mods:
 
-[Forward Earth - Planetary Diversity](https://steamcommunity.com/sharedfiles/filedetails/?id=2112221417)
-[Forward Earth - Vanilla](https://steamcommunity.com/sharedfiles/filedetails/?id=2073000388)
-[Forward Earth - Base](https://steamcommunity.com/sharedfiles/filedetails/?id=2078567914)
+- [Forward Earth - Planetary Diversity](https://steamcommunity.com/sharedfiles/filedetails/?id=2112221417)
+- [Forward Earth - Vanilla](https://steamcommunity.com/sharedfiles/filedetails/?id=2073000388)
+- [Forward Earth - Base](https://steamcommunity.com/sharedfiles/filedetails/?id=2078567914)
