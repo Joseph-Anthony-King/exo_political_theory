@@ -1,6 +1,6 @@
 # Exo Political Theory
 
-This mod is based on [Test23456](https://steamcommunity.com/sharedfiles/filedetails/?id=848053326) [Influence Generator](https://steamcommunity.com/sharedfiles/filedetails/?id=848053326) mod but has been adjusted to focus soley on influence generation.
+This mod is based on [Test23456](https://steamcommunity.com/sharedfiles/filedetails/?id=848053326) [Influence Generator](https://steamcommunity.com/sharedfiles/filedetails/?id=848053326) mod but has been adjusted to focus on influence and diplomacy.
 
 This mod contains a new technology and a new building:
 
