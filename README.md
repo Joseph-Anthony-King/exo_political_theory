@@ -16,6 +16,7 @@ The **Exo Affairs Institute** is limited to one per planet and it's stats are as
 
 ## Upkeep
 - 8 energy units per month
+- 2 consumer goods per month
 
 ## Benefits
 - 3 influence points per month
