@@ -32,7 +32,8 @@ The [b]Exo Affairs Institute[/b] is limited to one per planet and it's stats are
 
 [h2]Jobs[/h2]
 [list]
-[*]2 administrator jobs
+[*]1 administrator job
+[*]2 clerk jobs
 [/list]
 
 If you like this mod please upvote and favorite it and please check out my other mods:
