@@ -6,11 +6,11 @@ This mod is based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id
 
 This mod contains a new technology and a new building:
 
-Exo Political Theory: Our classical political theories must be updated to account for alien psychologies.
+[b]Exo Political Theory:[/b] Our classical political theories must be updated to account for alien psychologies.
 
-Exo Affairs Institute: An institute of public and private specialists to coordinate our external affairs and spread our values and influence.
+[b]Exo Affairs Institute:[/b] An institute of public and private specialists to coordinate our external affairs and spread our values and influence.
 
-The Exo Affairs Institute is limited to one per planet, costs 5,000 minerals to construct, and basically converts 2 energy credits into 1 influence point per month to a maximum of 3 influence points per month.  It also adds two administrator jobs to the planet.
+The Exo Affairs Institute is limited to one per planet, requires a population of 10, costs 5,000 minerals to construct, and basically converts 2 energy credits into 1 influence point per month to a maximum of 3 influence points per month.  It also adds two administrator jobs to the planet.
 
 If you like this mod please upvote and favorite it and please check out my other mods:
 
