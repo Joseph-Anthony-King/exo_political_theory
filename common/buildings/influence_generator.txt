@@ -29,7 +29,7 @@ building_influence_generator = {
 			influence = 3
 		}		
 		upkeep = {
-			energy = 6
+			energy = 8
 		}
 		cost = {
 			minerals = 5000
@@ -45,6 +45,10 @@ building_influence_generator = {
             job_administrator_add = 2
         }
     }
+
+	country_modifier = {
+		envoys_add = 1
+	}
 	
 	ai_weight = {
 		weight = 0
