@@ -12,7 +12,7 @@ This mod contains a new technology and a new building:
 
 The [b]Exo Affairs Institute[/b] is limited to one on the capital planet and it's stats are as follows:
 
-[h2]Cost[/h2]
+[h2]Requirements[/h2]
 [list]
 [*]Is the capital of an empire
 [*]Requires planet population of 10
