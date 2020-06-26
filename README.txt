@@ -14,6 +14,7 @@ The [b]Exo Affairs Institute[/b] is limited to one on the capital planet and it'
 
 [h2]Cost[/h2]
 [list]
+[*]Is the capital of an empire
 [*]Requires planet population of 10
 [*]5000 minerals
 [/list]

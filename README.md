@@ -11,6 +11,7 @@ This mod contains a new technology and a new building:
 The **Exo Affairs Institute** is limited to one on the capital planet and it's stats are as follows:
 
 ## Cost
+- Is the capital of an empire
 - Requires planet population of 10
 - 5000 minerals
 
