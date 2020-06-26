@@ -1,7 +1,5 @@
 building_influence_generator = {
 
-	icon = building_major_capital
-
 	base_buildtime = @b2_time
 
 	category = government
@@ -40,7 +38,7 @@ building_influence_generator = {
         }
         modifier = {
             job_administrator_add = 1
-			job_bureaucrat_add = 4
+			job_bureaucrat_add = 2
         }
     }
 
@@ -66,7 +64,7 @@ building_influence_generator = {
 		}		
 		upkeep = {
 			energy = 8
-			consumer_goods = 2
+			consumer_goods = 4
 		}
 		cost = {
 			minerals = 5000

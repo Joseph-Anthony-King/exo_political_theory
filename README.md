@@ -17,7 +17,7 @@ The **Exo Affairs Institute** is limited to one on the capital planet and it's s
 
 ## Upkeep
 - 8 energy units per month
-- 2 consumer goods per month
+- 4 consumer goods per month
 
 ## Benefits
 - 2 influence points per month
@@ -25,7 +25,7 @@ The **Exo Affairs Institute** is limited to one on the capital planet and it's s
 
 ## Jobs
 - 1 administrator job
-- 4 bureaucrat jobs
+- 2 bureaucrat jobs
 
 If you like this mod please upvote and favorite it and please check out my other mods:
 
