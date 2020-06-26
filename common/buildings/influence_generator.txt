@@ -1,15 +1,17 @@
 building_influence_generator = {
 
-	base_buildtime = @b2_time
-	can_build = yes
-	can_demolish = yes
-	can_be_ruined = yes
-	can_be_disabled = yes
 	icon = building_major_capital
+
+	base_buildtime = @b2_time
 
 	category = government
 
 	base_cap_amount = 1
+
+	can_build = yes
+	can_demolish = yes
+	can_be_ruined = yes
+	can_be_disabled = yes
 	
 	prerequisites = {
 		"tech_influence_generator_1"
@@ -17,30 +19,17 @@ building_influence_generator = {
 
 	allow = {
 		num_pops >= 10
+		is_capital = yes
 	}
-		
-	resources = {
-		category = planet_buildings
-		produces = {
-			trigger = {
+
+	destroy_trigger = {
+		OR = {
+			AND = {
 				exists = owner
-				owner = { 
-					NOT = { 
-						OR = {
-							has_deficit = energy 
-							has_deficit = consumer_goods 
-						}
-					} 
-				}
+				owner = { is_regular_empire = no }
 			}
-			influence = 3
-		}		
-		upkeep = {
-			energy = 8
-			consumer_goods = 2
-		}
-		cost = {
-			minerals = 5000
+			planet = { is_capital = no }
+			buildings_no_crystals = yes
 		}
 	}
 
@@ -58,12 +47,37 @@ building_influence_generator = {
 	country_modifier = {
 		envoys_add = 1
 	}
+		
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = {
+				exists = owner
+				owner = { 
+					NOT = { 
+						OR = {
+							has_deficit = energy 
+							has_deficit = consumer_goods 
+						}
+					} 
+				}
+			}
+			influence = 2
+		}		
+		upkeep = {
+			energy = 8
+			consumer_goods = 2
+		}
+		cost = {
+			minerals = 5000
+		}
+	}
 	
 	ai_weight = {
 		weight = 0
 		modifier = {
 			weight = 1
-			free_jobs > 2
+			free_jobs > 5
 			free_building_slots > 1
 			exists = owner
 		}

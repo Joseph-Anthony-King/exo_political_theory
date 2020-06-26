@@ -8,7 +8,7 @@ This mod contains a new technology and a new building:
 
 **Exo Affairs Institute:** An institute of public and private specialists to coordinate our external affairs and spread our values and influence.
 
-The **Exo Affairs Institute** is limited to one per planet and it's stats are as follows:
+The **Exo Affairs Institute** is limited to one on the capital planet and it's stats are as follows:
 
 ## Cost
 - Requires planet population of 10
@@ -19,7 +19,7 @@ The **Exo Affairs Institute** is limited to one per planet and it's stats are as
 - 2 consumer goods per month
 
 ## Benefits
-- 3 influence points per month
+- 2 influence points per month
 - Adds an envoy
 
 ## Jobs
