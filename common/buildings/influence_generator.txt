@@ -63,8 +63,8 @@ building_influence_generator = {
 			influence = 2
 		}		
 		upkeep = {
-			energy = 8
-			consumer_goods = 4
+			energy = 12
+			consumer_goods = 12
 		}
 		cost = {
 			minerals = 5000

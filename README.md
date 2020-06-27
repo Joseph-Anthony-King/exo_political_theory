@@ -17,8 +17,8 @@ The **Exo Affairs Institute** is limited to one on the capital planet and it's s
 - 5000 minerals
 
 ## Upkeep
-- 8 energy units per month
-- 4 consumer goods per month
+- 12 energy units per month
+- 12 consumer goods per month
 
 ## Benefits
 - 2 influence points per month
