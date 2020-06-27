@@ -8,7 +8,7 @@ This mod contains a new technology and a new building:
 
 [b]Exo Political Theory:[/b] Our classical political theories must be updated to account for alien psychologies.
 
-[b]Exo Affairs Institute:[/b] An institute of public and private specialists to coordinate our external affairs and spread our values and influence.
+[b]Exo Affairs Institute:[/b] An institute of public and private specialists to coordinate our external affairs and spread our values and influence.  Due to the need to be close to the seat of the government, it can only be built at our capital.
 
 The [b]Exo Affairs Institute[/b] is limited to one on the capital planet and it's stats are as follows:
 
