@@ -1,6 +1,6 @@
 namespace = exoPoliticalTheory
 
-### fe.00 - Set forwardEarthPD global flag
+### exoPoliticalTheory.00 - Set exoPoliticalTheory global flag
 event = {
 	id = exoPoliticalTheory.00
 	hide_window = yes
