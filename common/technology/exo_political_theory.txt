@@ -1,4 +1,4 @@
-tech_influence_generator_1 = {
+tech_exo_political_theory_1 = {
 	cost = @tier1cost1
 	area = society
 	tier = 1

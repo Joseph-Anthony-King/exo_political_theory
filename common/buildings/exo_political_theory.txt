@@ -1,4 +1,4 @@
-building_influence_generator = {
+building_exo_political_theory = {
 
 	base_buildtime = @b2_time
 
@@ -12,7 +12,7 @@ building_influence_generator = {
 	can_be_disabled = yes
 	
 	prerequisites = {
-		"tech_influence_generator_1"
+		"tech_exo_political_theory_1"
 	}
 
 	allow = {
