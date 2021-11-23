@@ -20,6 +20,10 @@ building_exo_political_theory = {
 		is_capital = yes
 	}
 
+	empire_limit = {
+		base = 1
+	}
+
 	destroy_trigger = {
 		OR = {
 			AND = {
