@@ -1,9 +1,9 @@
-version="3.9"
+version="3.10"
 tags={
 	"Buildings"
 	"Diplomacy"
 	"Technologies"
 }
 name="Exo Political Theory"
-supported_version="3.9.*"
+supported_version="3.10.*"
 remote_file_id="2141583417"
